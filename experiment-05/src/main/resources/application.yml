@@ -1,0 +1,10 @@
+logging:
+  level:
+    com.hsfy: debug
+  pattern:
+    console: "%d{yyyy-MM-dd HH:mm:ss} %-5level %C.%M[%line] - %msg%n"
+spring:
+  jackson:
+    default-property-inclusion: non_null
+server:
+  port: 8083

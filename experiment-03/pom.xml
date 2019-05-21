@@ -9,9 +9,9 @@
         <relativePath/> <!-- lookup parent from com.hsfy.experiments.experiments.repository -->
     </parent>
     <groupId>com.hsfy.experiments</groupId>
-    <artifactId>experiments</artifactId>
+    <artifactId>experiment</artifactId>
     <version>0.0.1-SNAPSHOT</version>
-    <name>experiments</name>
+    <name>experiment</name>
     <description>Demo project for Spring Boot</description>
 
     <properties>

@@ -1,0 +1,8 @@
+spring:
+  jackson:
+    default-property-inclusion: non_null
+server:
+  port: 8083
+my:
+  secretkey: R28K42ZEJ8LWRHU5
+  salt: 636eac2534bcfcb0
