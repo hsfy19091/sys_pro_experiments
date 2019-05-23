@@ -1,0 +1,20 @@
+server:
+  port: 8083
+  servlet:
+    context-path: /api
+spring:
+#  jackson:
+#    default-property-inclusion: non_null
+  datasource:
+    username: root
+    password: abcdef
+    url: jdbc:mysql://localhost:3306/exp_10?useUnicode=true&characterEncoding=UTF-8&serverTimezone=GMT%2B8
+    driver-class-name: com.mysql.cj.jdbc.Driver
+  jpa:
+    database-platform: org.hibernate.dialect.MySQL5InnoDBDialect
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+my:
+  secretkey: R28K42ZEJ8LWRHU5
+  salt: 636eac2534bcfcb0
