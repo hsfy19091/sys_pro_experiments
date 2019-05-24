@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <annotationProcessing>
+      <profile name="Maven default annotation processors profile" enabled="true">
+        <sourceOutputDir name="target/generated-sources/annotations" />
+        <sourceTestOutputDir name="target/generated-test-sources/test-annotations" />
+        <outputRelativeToContentRoot value="true" />
+        <module name="experiment" />
+        <module name="experiment-01" />
+        <module name="experiment-04" />
+        <module name="experiment-05" />
+        <module name="experiment-06" />
+        <module name="experiment-07" />
+        <module name="experiment_back_end" />
+        <module name="experiments" />
+        <module name="experiments (1) (com.hsfy.experiments)" />
+      </profile>
+    </annotationProcessing>
+    <bytecodeTargetLevel>
+      <module name="experiment" target="1.8" />
+      <module name="experiment-01" target="1.8" />
+      <module name="experiment-02" target="1.8" />
+      <module name="experiment-03" target="1.8" />
+      <module name="experiment-04" target="1.8" />
+      <module name="experiment-05" target="1.8" />
+      <module name="experiment-06" target="1.8" />
+      <module name="experiment-07" target="1.8" />
+      <module name="experiment_back_end" target="1.8" />
+      <module name="experiments" target="1.8" />
+      <module name="experiments (1) (com.hsfy.experiments)" target="1.8" />
+    </bytecodeTargetLevel>
+  </component>
+</project>

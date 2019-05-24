@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="JavaScriptSettings">
+    <option name="languageLevel" value="ES6" />
+  </component>
+  <component name="MavenProjectsManager">
+    <option name="originalFiles">
+      <list>
+        <option value="$PROJECT_DIR$/experiment-01/pom.xml" />
+        <option value="$PROJECT_DIR$/experiments-02/pom.xml" />
+        <option value="$PROJECT_DIR$/experiments-03/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-02/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-03/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-04/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-05/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-06/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-07/pom.xml" />
+        <option value="$PROJECT_DIR$/experiment-10/experiment_back_end/pom.xml" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="1.8" project-jdk-type="JavaSDK" />
+</project>
